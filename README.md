@@ -17,6 +17,7 @@ CHICKEN INVADERS GAME
 Изглед на играта:
 
 Главен екран
+
 ![main](https://user-images.githubusercontent.com/48527432/60722601-b9be9680-9f31-11e9-934b-ba4a83c68753.png) 
 
 Ова е главниот екран.При клик на PLAY вие почнувате да ја играте играта од првиот левел.

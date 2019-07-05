@@ -1,0 +1,60 @@
+C:\Users\user\source\repos\ProektVP\ProektVP\bin\Debug\ProektVP.exe.config
+C:\Users\user\source\repos\ProektVP\ProektVP\bin\Debug\ProektVP.exe
+C:\Users\user\source\repos\ProektVP\ProektVP\bin\Debug\ProektVP.pdb
+C:\Users\user\source\repos\ProektVP\ProektVP\obj\Debug\ProektVP.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ProektVP\ProektVP\obj\Debug\ProektVP.Properties.Resources.resources
+C:\Users\user\source\repos\ProektVP\ProektVP\obj\Debug\ProektVP.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ProektVP\ProektVP\obj\Debug\ProektVP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProektVP\ProektVP\obj\Debug\ProektVP.exe
+C:\Users\user\source\repos\ProektVP\ProektVP\obj\Debug\ProektVP.pdb
+C:\Users\user\source\repos\ProektVP\ProektVP\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\user\source\repos\ProektVP\ProektVP\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\ProektVP\ProektVP\obj\Debug\ProektVP.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\ProektVP\ProektVP\obj\Debug\ProektVP.Form1.resources
+C:\Users\user\source\repos\ProektVP\ProektVP\obj\Debug\ProektVP.Rules.resources
+C:\Users\user\source\repos\ProektVP\ProektVP\obj\Debug\ProektVP.GameWindow.resources
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\bin\Debug\ProektVP.exe.config
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\bin\Debug\ProektVP.exe
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\bin\Debug\ProektVP.pdb
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\obj\Debug\ProektVP.csprojAssemblyReference.cache
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\obj\Debug\ProektVP.csproj.ResolveComReference.cache
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\obj\Debug\ProektVP.Form1.resources
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\obj\Debug\ProektVP.GameWindow.resources
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\obj\Debug\ProektVP.Properties.Resources.resources
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\obj\Debug\ProektVP.Rules.resources
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\obj\Debug\ProektVP.csproj.GenerateResource.cache
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\obj\Debug\ProektVP.csproj.CoreCompileInputs.cache
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\obj\Debug\ProektVP.exe
+C:\Users\Stefanija\Desktop\New folder (4)\ProektVP\ProektVP\obj\Debug\ProektVP.pdb
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\bin\Debug\ProektVP.exe.config
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\bin\Debug\ProektVP.exe
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\bin\Debug\ProektVP.pdb
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\obj\Debug\ProektVP.csprojAssemblyReference.cache
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\obj\Debug\ProektVP.csproj.ResolveComReference.cache
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\obj\Debug\ProektVP.Form1.resources
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\obj\Debug\ProektVP.GameWindow.resources
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\obj\Debug\ProektVP.Properties.Resources.resources
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\obj\Debug\ProektVP.Rules.resources
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\obj\Debug\ProektVP.csproj.GenerateResource.cache
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\obj\Debug\ProektVP.csproj.CoreCompileInputs.cache
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\obj\Debug\ProektVP.exe
+C:\Users\Stefanija\Desktop\New folder (4) - Copy\ProektVP\ProektVP\obj\Debug\ProektVP.pdb
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\bin\Debug\ProektVP.exe.config
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\bin\Debug\ProektVP.exe
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\bin\Debug\ProektVP.pdb
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\obj\Debug\ProektVP.csprojAssemblyReference.cache
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\obj\Debug\ProektVP.csproj.ResolveComReference.cache
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\obj\Debug\ProektVP.Form1.resources
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\obj\Debug\ProektVP.GameWindow.resources
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\obj\Debug\ProektVP.Properties.Resources.resources
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\obj\Debug\ProektVP.Rules.resources
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\obj\Debug\ProektVP.csproj.GenerateResource.cache
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\obj\Debug\ProektVP.csproj.CoreCompileInputs.cache
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\obj\Debug\ProektVP.exe
+C:\Users\Stefanija\Desktop\konecen\ProektVP\ProektVP\obj\Debug\ProektVP.pdb
